@@ -1,0 +1,16 @@
+Variables
+Una variable es una forma de guardar una información para luego usar más tarde. 
+
+Strings
+Es un tipo de Dato, en este caso caracteres, siempre puesto entre comillas.
+
+Funciones (argumentos, return)
+Agrupa código, lo guarda y luego se puede invocar y ejecutar.
+Los argumentos son variables dentro de la función.
+Return retorna un valor. La función detiene lo que está haciendo y devuelve lo especificado.
+
+Declaraciones if
+Ir ejecutando distintos códigos segun distintas especificaciones. (Condicional).
+
+Valores booleanos (true, false)
+Puede tener dos valores, verdadero o falso. Activa o desactiva. 
